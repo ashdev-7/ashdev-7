@@ -1,4 +1,4 @@
-### Hello there 👋
+# Hello there 👋
 - I’m Yash, a CS major from India. 
 - 👀 Interested in full stack web development and aritficial intelligence.
 - 🌱 Honing my skills in front-end development.
