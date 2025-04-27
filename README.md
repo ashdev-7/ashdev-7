@@ -1,7 +1,7 @@
 # Hello there 👋
 - I’m Yash, a CS major from India. 
-- 👀 Interested in full stack web development and aritficial intelligence.
-- 🌱 Honing my skills in front-end development.
+- 👀 Interested in Front-end web development and Aritficial Intelligence.
+- 🌱 Honing my skills in front-end development and AI.
 - 🤖 Machine learning newbie.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yashty/)
 - 🧑‍💻 Looking for internships and collaborative projects.
