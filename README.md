@@ -1,7 +1,6 @@
 # Hello there 👋
 - I’m Yash, a CS major from India. 
-- 👀 Interested in Development and Aritficial Intelligence.
-- 🤖 Machine learning newbie.
+- 🤖 Backend Dev
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yashty/)
 - 🧑‍💻 Looking for internships and collaborative projects.
 
