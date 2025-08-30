@@ -1,6 +1,5 @@
 # Hello there 👋
-- I’m Yash, a CS major from India. 
-- 🤖 Backend Dev
+- I’m Yash, a CS major. 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yashty/)
 - 🧑‍💻 Looking for internships and collaborative projects.
 
